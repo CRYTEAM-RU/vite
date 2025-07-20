@@ -1,1 +1,1 @@
-{"name":"CRYTEAM","short_name":"CRYTEAM","start_url":".","display":"standalone","background_color":"#0f172a","theme_color":"#2563eb","lang":"en","scope":"/","icons":[{"src":"/logo.png","sizes":"192x192","type":"image/png"},{"src":"/logo.png","sizes":"512x512","type":"image/png"}]}
+{"name":"CRYTEAM","short_name":"CRYTEAM","start_url":".","display":"standalone","background_color":"#0f172a","theme_color":"#2563eb","lang":"en","scope":"/vite/","icons":[{"src":"/logo.png","sizes":"192x192","type":"image/png"},{"src":"/logo.png","sizes":"512x512","type":"image/png"}]}
