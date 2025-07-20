@@ -1,0 +1,21 @@
+{
+  "name": "CRYTEAM",
+  "short_name": "CRYTEAM",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "description": "CRYTEAM — команда профессиональных разработчиков игровых серверов.",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 
